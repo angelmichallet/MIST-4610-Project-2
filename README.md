@@ -20,11 +20,19 @@ put description here
 
 
 ## Question 1 
-question and importance
+**How have hate crime incidents of different bias types investigated by the police department changed over time in San Francisco?**
+<img width="793" alt="image" src="https://github.com/angelmichallet/MIST-4610-Project-2/assets/130924513/2a20b13a-a58b-47f4-96df-8935f8568674">
+
+**In light of the rise in racially biased hate crime incidents in 2021, how has the timing of this spike been during the COVID-19 pandemic specifically influenced the trends in racially biased hate crimes in San Francisco?**
+<img width="797" alt="image" src="https://github.com/angelmichallet/MIST-4610-Project-2/assets/130924513/292f8690-2c26-4e74-ba61-c73abc2bcc5d">
 
 
 ## Question 2
-question and imporatnce
+**What is the distribution of different types of offense categories in hate crimes across various locations in San Francisco?**
+<img width="1159" alt="image" src="https://github.com/angelmichallet/MIST-4610-Project-2/assets/130924513/537b892a-1c8c-40ac-97f1-12675619eed2">
+
+**Given the significant number of hate crimes reported on highways and roads, what are the predominant types of hate crime biases (such as race, religion, sexual orientation) and types of offense acts observed in these specific locations?**
+<img width="1174" alt="image" src="https://github.com/angelmichallet/MIST-4610-Project-2/assets/130924513/338e6c27-02e2-42db-9b7f-f742dc320eee">
 
 
 ## Manipulations Applied to the Dataset for Analysis
