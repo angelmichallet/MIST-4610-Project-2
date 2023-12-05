@@ -21,7 +21,7 @@ After a thorough investigation of datasets provided by data.gov, our team made a
 
 ## Question 1 
 **How have hate crime incidents of different bias types investigated by the police department changed over time in San Francisco?**  
-
+This question is important because it aims to determine any trends or spikes in the number of crimes against certain bias types. Investigating these trends and spikes will help the San Francisco Police Department better understand the contextual factors that may have influenced these spikes. Any knowledge gained can be used by the police department to better prepare themselves to prevent hate crimes especially after catastrophic events. This question and its findings are related to the dataset, which is full of data regarding hate crimes investigated by the San Francisco Police Department.
 <img width="793" alt="image" src="https://github.com/angelmichallet/MIST-4610-Project-2/assets/130924513/2a20b13a-a58b-47f4-96df-8935f8568674">
 
 
