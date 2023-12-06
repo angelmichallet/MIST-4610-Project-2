@@ -12,7 +12,7 @@ repos that have the project on them.
 2. Akhilesh Eloore [@akhileshe](https://github.com/akhileshe/MIST4610Group3Project2)
 3. Rishi Patel [@rp65029](https://github.com/rp65029/MIST4610Project2)
 4. Daniel Zavala-palafox [@dzavalapalafox](https://github.com/dzavalapalafox/Project2_MIST4610)
-5. Penn Worden [@pennworden](https://github.com/pennworden)
+5. Penn Worden [@pennworden](https://github.com/pennworden/Group-Project-2)
 6. Noah Martin [@noahhmartin03](https://github.com/noahhmartin03/MIST4610Project2)
 
 ## Description of Dataset
