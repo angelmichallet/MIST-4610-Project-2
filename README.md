@@ -9,11 +9,11 @@ Include information about the name of the team based on the team name assigned t
 ELC. Also include the names of all team members as well as links to their corresponding github
 repos that have the project on them.
 1. Angel Michallet [@angelmichallet](https://github.com/angelmichallet/MIST-4610-Project-2)
-2. Akhilesh Eloore [@akhileshe](https://github.com/akhileshe)
-3. Rishi Patel [@rp65029](https://github.com/rp65029)
-4. Daniel Zavala-palafox [@dzavalapalafox](https://github.com/dzavalapalafox)
+2. Akhilesh Eloore [@akhileshe](https://github.com/akhileshe/MIST4610Group3Project2)
+3. Rishi Patel [@rp65029](https://github.com/rp65029/MIST4610Project2)
+4. Daniel Zavala-palafox [@dzavalapalafox](https://github.com/dzavalapalafox/Project2_MIST4610)
 5. Penn Worden [@pennworden](https://github.com/pennworden)
-6. Noah Martin [@noahhmartin03](https://github.com/noahhmartin03)
+6. Noah Martin [@noahhmartin03](https://github.com/noahhmartin03/MIST4610Project2)
 
 ## Description of Dataset
 After a thorough investigation of datasets provided by data.gov, our team made a unanimous decision to analyze the reported hate crimes in the city of San Francisco. The San Francisco Police Department provided this dataset, which reveals information regarding hate crime investigations as early as 2001 and was last updated in November 2023. This dataset contains a total of 1,694 rows of data (instances of hate crimes) and contains 22 columns (attributes, facts) regarding each hate crime report. During this analysis, our team has chosen to investigate the trends of hate crime over time utilizing the “occurence_month” attribute, which lists the occurrence of each instance by month and year. In addition to “occurence_month”, we also used the number of hate crime reports by a count of each report’s primary key, “record_id”. Furthermore, the team has investigated the percentage of total hate crimes based on racial bias through the utilization of the “most_serious_bias” attribute and count of “record_id”’s. This attribute depicts the variations of bias reports under the dataset. This enabled our team to conduct a multi-dimensional investigation regarding racial hate crime trends that occurred amidst the lifting of the COVID-19 lockdown in 2021. Lastly, our team has also inspected the distribution of different types of offenses in various locations of San Francisco through the combination of  “most_serious_ucr”, “most_serious_location”, “most_serious_bias”, and “record_id” attributes. “Most_serious_ucr” can be described as the most serious crime (offense) that occurred in the hate crime incident. “Most_serious_location” describes the location associated with each instance of hate crime. Following this, our team will offer a more detailed description of our findings derived from the analysis based on our following questions.
